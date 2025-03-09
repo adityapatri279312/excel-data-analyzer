@@ -1,7 +1,7 @@
 # DOLFIN Training Data Analysis Summary
 
 ## Overview
-The dataset contains training and competency records for 55,367 users, with 33 columns tracking various aspects of user activity, course completion, and assessment performance.
+The dataset contains training and competency records for 55,367 users, with 33 columns tracking various aspects of user activity, course completion, and assessment performance.  
 
 ## Key Findings
 
